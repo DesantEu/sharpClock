@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\bin\Debug\sharp-clock.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\bin\Debug\sharp-clock.exe
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\bin\Debug\sharp-clock.pdb
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp-clock.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp_clock.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp-clock.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp-clock.exe
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp-clock.pdb
+c:\users\mak\documents\visual studio 2017\Projects\sharp-clock\sharp-clock\obj\Debug\sharp_clock.Form1.resources
